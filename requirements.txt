@@ -5,3 +5,4 @@ diffusers
 pydantic
 Pillow
 transformers
+accelerate
